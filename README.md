@@ -1,10 +1,11 @@
-# FYP---DMU
+FYP---DMU
+Hi Everyone,
+Frontend Setup
+Navigate to the FRONTEND directory.Run the following commands:npm install
+**yarn install
+yarn install**
 
-Hi Guys,
+Start the frontend server:npm start
 
-Go To FRONTEND and PUT below COMMAND:
-
-npm install
-yarn install
-THEN execute npm start IN ORDER to RUN the FRONTEND
-For BACKEND EXECUTE `python manage.py runserver`.
+Backend Setup
+Start the backend server:python manage.py runserver
